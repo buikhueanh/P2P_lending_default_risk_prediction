@@ -8,7 +8,7 @@ The goal of this project is to identify key determinants of loan default and eva
 
 ## Project Structure
 
-`
+```
 p2p-default-risk/
 ├─ notebooks/
 │ └─ p2p_default_risk.ipynb
@@ -18,7 +18,7 @@ p2p-default-risk/
 │ └─ cleaned_p2p_2007_to_2018Q4.csv
 │ └─ README.md
 └─ README.md
-`
+```
 
 ---
 
